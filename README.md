@@ -11,5 +11,4 @@ APP for viewing EQ information connected at once
 #### Knowledge
 - Making the tab system
   - Outputs three data information with the QTabWidget
-- Build the sorting system for user-friendly enviroments
-  - Add ascending/descending functions to each colunms
+
